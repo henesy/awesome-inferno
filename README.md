@@ -2,6 +2,26 @@
 
 _A curated list of awesome Inferno resources, libraries, and software._
 
+The official repository for the current Inferno source tree is: <https://bitbucket.org/inferno-os/inferno-os/>
+
+The official website of the Inferno operating system is: <http://www.vitanuova.com/inferno/index.html>
+
+The official mailing list for Inferno is on Google Groups: <https://groups.google.com/forum/#!forum/inferno-os>
+
+The IRC channel on Freenode for Inferno is: `#inferno`
+
+__Legal:__
+
+Inferno® is a registered trademark of Vita Nuova Holdings Limited in the USA and other countries, and in the European Union.
+
+Inferno OS™ is a trademark of Vita Nuova Holdings Limited in the USA and other countries, and in the European Union.
+
+Limbo® is a registered trademark of Vita Nuova Holdings Limited in the USA and other countries, and in the European Union.
+
+Dis® is a registered trademark of Vita Nuova Holdings Limited in the United Kingdom, the USA and other countries. 
+
+__Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
+
 ### Contributing
 
 ### Contents
@@ -12,6 +32,7 @@ _A curated list of awesome Inferno resources, libraries, and software._
 	- [Applications](#software)
 	- [Non-Inferno Software](#non-inferno-software)
 	- [Ports](#ports)
+	- [Forks](#forks)
 	- [Dis Implementations](#dis-implementations)
 	- [Inspired by Inferno](#inspired-by-inferno)
 	- [Books](#books)
@@ -20,8 +41,63 @@ _A curated list of awesome Inferno resources, libraries, and software._
 
 *Useful documents, blogs, etc. that relate to Inferno and the Limbo programming language.*
 
-* [Inferno Lab](https://github.com/caerwynj/inferno-lab) - Inferno Lab - experiments in Inferno OS and Limbo
+* [debu.gs blog](http://debu.gs/tags/inferno)
+	* [Inferno, Part 1: Shell](http://debu.gs/entries/inferno-part-1-shell)
+	* [Inferno, Part 3: Let's Make a Filesystem!](http://debu.gs/entries/inferno-part-3-let-s-make-a-filesystem)
+* [powerman Inferno articles (ru)](https://powerman.name/doc/Inferno/)
+* [powerman Inferno articles (en)](https://powerman.name/doc/Inferno/index_en.html)
+* [powerman programming blog (ru)](https://powerman.name/Inferno/Limbo.html)
+* [bluishcoder blog](https://bluishcoder.co.nz/tags/inferno/index.html)
+	* [Authentication and Encryption in Inferno](https://bluishcoder.co.nz/2012/12/18/authentication-and-encryption-in-inferno-os.html)
+* [lynxline blog](http://lynxline.com/category/inferno/)
+* [infernohacks blog](http://infernohacks.blogspot.com/)
+* [inferno-hell blog (jp)](https://inferno-hell.blogspot.com/search/label/inferno)
+* [snegovick blog](https://snegovick.me/) - Porting Inferno series
+* [hatena diary (jp)](https://inferno.hatenadiary.org/)
+* [Mrynet Inferno documents (old)](ftp://mrynet.com/os/inferno/)
+* [Try Inferno in a web browser](http://tryinferno.rekka.io/)
+* [Getting Started with Inferno](https://www.ueber.net/who/mjl/inferno/getting-started.html)
+* [Inferno Lab (source)](https://github.com/caerwynj/inferno-lab) - Inferno Lab - experiments in Inferno OS and Limbo
+* [Inferno Lab](http://ipn.caerwyn.com/)
 * [Porting Inferno to Raspberry Pi](https://github.com/yshurik/inferno-rpi)
+* [Configuring an Inferno Native Build](https://bitbucket.org/dboddie/inferno-os/wiki/Configuring%20a%20Native%20Build)
+* [Cat-v Inferno documentation](doc.cat-v.org/inferno/)
+* [Cat-v Inferno manuals](http://man.cat-v.org/inferno/)
+* [Cat-v Octopus manuals](http://man.cat-v.org/octopus/)
+* [Postnix Purgatorio manuals](http://man.postnix.pw/purgatorio/)
+* [Powerman Inferno manuals](https://powerman.name/Inferno/man/)
+* [How to Build a Native Inferno Kernel for the PC](https://umdrive.memphis.edu/blstuart/htdocs/inf_native.html)
+* [Installing Native Inferno on a PC](https://umdrive.memphis.edu/blstuart/htdocs/inf_nat_inst.html)
+* [Building Inferno with MSVC 2008](https://umdrive.memphis.edu/blstuart/htdocs/msvc8.html)
+* [Postnix Inferno image mirror](http://9.postnix.pw/inferno/images/)
+* [Limbo on Rosetta Code](http://rosettacode.org/wiki/Category:Limbo)
+* [Inferno Tutorial](https://web.archive.org/web/20120227200625/http://www.resc.rdg.ac.uk/twiki/bin/view/Resc/InfernoTutorial)
+* [Inferno Programming with Limbo (ipwl)](https://web.archive.org/web/20160304092801/http://www.gemusehaken.org/ipwl/)
+* [Inferno notes (jp)](http://www.asahi-net.or.jp/~fa8h-kym/inferno/notes1.xml)
+* [Building Inferno Disk Images](http://www.boddie.org.uk/david/www-repo/Personal/Updates/2016/2016-10-16.html)
+* [Inferno in VirtualBox on Windows XP (jp)](http://mwlab.net/2010/06/virtualbox-in-inferno.html)
+* [Inferno in QEMU on Windows XP (jp)](http://mwlab.net/2010/07/inferno-in-qemu-on-windowsxp.html)
+* [Native Inferno (jp)](https://oraccha.hatenadiary.org/entry/20090617/1245170150)
+* [Inferno Wiki (old)](https://web.archive.org/web/20060918091510/http://canto.hopto.org:80/wiki/1/index.html)
+* [Developing modules for Limbo in C](https://powerman.name/doc/Inferno/c_module_en)
+* [Inferno FAQ for the 4th Edition](http://goliat.eik.bme.hu/~fgergo/faq.html)
+* [Установка OS Inferno New Edition (ru)](https://habr.com/en/post/145922/)
+* [Каталог статей по OS Inferno (ru)](https://habr.com/en/post/145993/)
+* [Inferno user's page (jp)](https://web.archive.org/web/20061212130116/http://intrance.hp.infoseek.co.jp/infernopage.old/top.html)
+
+## Papers
+
+* [Cat-v papers index](http://doc.cat-v.org/inferno/4th_edition/)
+* [Vita Nuova papers index](http://www.vitanuova.com/inferno/papers)
+* [The Limbo Programming Language](http://www.vitanuova.com/inferno/papers/limbo.pdf)
+* [The Limbo Programming Language Addendum](http://www.vitanuova.com/inferno/papers/addendum.pdf)
+* [Limbo Basics](http://www.vitanuova.com/inferno/papers/limbobasics.html)
+* [Limbo Programming](http://www.vitanuova.com/inferno/papers/limbomore.html)
+* [Two Enhancements for Native Inferno](https://www.cs.drexel.edu/~bls96/infenhance.pdf)
+* [Inferno in Embedded Space: Porting to the Sun SPOT](https://www.cs.drexel.edu/~bls96/spotinferno.pdf)
+* [Installing the Inferno Software (natively)](http://www.vitanuova.com/inferno/papers/install.pdf)
+* [Dis VM Specification](http://www.vitanuova.com/inferno/papers/dis.pdf)
+* [A Descent into Limbo](http://www.vitanuova.com/inferno/papers/descent.pdf)
 
 ## Libraries
 
@@ -31,10 +107,28 @@ _A curated list of awesome Inferno resources, libraries, and software._
 * [textmangle](https://bitbucket.org/mjl/textmangle) - Parses readable utf-8 ascii text and distills block-level layout information from it
 * [pdfread](https://bitbucket.org/mjl/pdfread) - A library & tools for reading pdf files
 * [util](https://bitbucket.org/mjl/util) - A library with various commonly used functions by mjl
-* [filtertool](https://bitbucket.org/mjl/filtertool) - Wrapper for the limbo filter module
+* [filtertool](https://bitbucket.org/mjl/filtertool) - Wrapper for the Limbo filter module
+* [growing](https://github.com/powerman/inferno-contrib-growing) - Dynamically growing arrays
+* [powerman's hashtable](https://github.com/powerman/inferno-contrib-hashtable) - Limbo hash module substitute
+* [iobuf](https://github.com/powerman/inferno-contrib-iobuf) - Simpler alternative to bufio(2)
+* [logger](https://github.com/powerman/inferno-contrib-logger) - Configurable logging
+* [regmonitor](https://github.com/powerman/inferno-contrib-regmonitor) - Monitor for added/changed/removed registry(4) services
+* [cjson](https://github.com/powerman/inferno-cjson) - JSON tokenizer for (de)serializing ADT's
+* [tap](https://github.com/powerman/inferno-contrib-tap) - Test Anything Protocol (TAP) producer
+* [re2](https://github.com/powerman/inferno-re2) - Provides access to regular expression library re2 (hosted-only)
 
 ## Applications
 
+* [Terzarima Inferno Software](http://www.terzarima.net/inferno/soft/index.html)
+* [emuq](https://www.ueber.net/emuq/) - Emu bundled with a small built-in root file system
+* [j2d](https://code.google.com/archive/p/inferno-j2d/) - Java to Dis conversion (very old)
+* [register](https://github.com/powerman/inferno-contrib-register) - Keep service registered in registry(4)
+* [opt skel](https://github.com/powerman/inferno-opt-skel) - Skeleton template for /opt projects
+* [opt mkfiles](https://github.com/powerman/inferno-opt-mkfiles) - Mkfiles for /opt projects
+* [opt/setup](https://github.com/powerman/inferno-opt-setup) - Scripts to setup /opt projects
+* [watchdog](https://github.com/powerman/inferno-contrib-watchdog) - Detects and acts on crash of command/pid
+* [retrymount](https://github.com/powerman/inferno-contrib-retrymount) - Mounter which tries to reconnect dc'd mounts
+* [dboddie's misc programs](https://bitbucket.org/dboddie/limbo-programs) - A collection of Limbo programs by dboddie
 * [qwm](https://bitbucket.org/mjl/qwm/) - Alternative window manager to wm/wm with arrangement similar to acme/dwm
 * [novt](https://bitbucket.org/mjl/novt/) - A basic ecma-48 terminal emulator with color
 * [wmrun](https://bitbucket.org/mjl/wmrun) - Extended alternative to wm/sh
@@ -58,7 +152,7 @@ _A curated list of awesome Inferno resources, libraries, and software._
 * [ext2fs](https://bitbucket.org/mjl/ext2fs) - Gives read-only access to the contents of ext2 file systems
 * [ffs](https://bitbucket.org/mjl/ffs) - A read-only implementation of the BSD ffs as used on OpenBSD
 * [ip/ftpsrv](https://bitbucket.org/mjl/ftpsrv) - A simple, anonymous, ftp server
-* [games](https://bitbucket.org/mjl/games) - Two graphical games by mjl
+* [mjl's games](https://bitbucket.org/mjl/games) - Two graphical games by mjl
 * [webdavfs](https://bitbucket.org/mjl/webdavfs) - A 9p file server that accesses files over http/webdav
 * [hgweb](https://bitbucket.org/mjl/hgweb) - Implements a web frontend to hgfs, the mercurial file system
 * [(un)expand](https://bitbucket.org/mjl/expand) - Tab to space and space to tab conversion
@@ -76,16 +170,29 @@ _A curated list of awesome Inferno resources, libraries, and software._
 * [torrent](https://bitbucket.org/mjl/torrent) - This package contains a bittorrent peer 
 * [ssh](https://bitbucket.org/mjl/ssh) - This package contains an ssh client, sftpfs, and the library that the client uses
 * [Acme SAC](https://github.com/caerwynj/acme-sac) - The ACME editor for Windows/Mac/Linux
+* [MR](https://github.com/yaokai1117/MRonInferno) - MapReduce framework including dfs and mapreduce
 
 ## Non-Inferno Software
 
-* [Dis Virtual Machine Tools for Python](https://bitbucket.org/dboddie/dis-virtual-machine-tools-for-python/src/default/)
+* [Python Dis Virtual Machine Tools](https://bitbucket.org/dboddie/dis-virtual-machine-tools-for-python/src/default/)
+* [Python Limbo Executable Packager](https://bitbucket.org/dboddie/limbo-executable-packager)
+* [Python Limbo to Qt Bridge](https://bitbucket.org/dboddie/limbo-to-qt-bridge)
+* [Perl Inferno Registry Manager](https://github.com/powerman/perl-Inferno-RegMgr)
+* [AsciiDoc Inferno man page backend](https://github.com/powerman/asciidoc-9man-backend)
+* [Limbo syntax highlighting for Limbo](https://github.com/vim-scripts/Limbo-syntax)
 
 ## Ports
 
+* [Hellaphone (Android)](https://bitbucket.org/floren/inferno/wiki/Home)
+* [Android App](https://github.com/bhgv/Inferno-OS_Android)
 * [Raspberry Pi](https://bitbucket.org/infpi/inferno-rpi/)
 * [Nintendo DS](https://bitbucket.org/mjl/inferno-ds)
 * [Marvell Kirkwood](https://bitbucket.org/mjl/inferno-kirkwood)
+
+## Forks
+
+* [Purgatorio](https://code.9front.org/hg/purgatorio)
+* [dboddie's fork](https://bitbucket.org/dboddie/inferno-os)
 
 ## Dis Implementations
 
@@ -94,4 +201,9 @@ _A curated list of awesome Inferno resources, libraries, and software._
 ## Inspired by Inferno
 
 * [Node9](https://github.com/jvburnes/node9) - A portable hybrid distributed OS based on Inferno, LuaJIT and Libuv
+* [Wonderland](https://github.com/kabbi/wonderland) - DHT-based distributed virtual filesystem based on Inferno
 
+## Books
+
+* Inferno Programming with Limbo - 780470843529 - 978-0470843529
+* Principles of Operating Systems: Design & Applications - 1-4188-3769-5
