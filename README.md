@@ -2,6 +2,8 @@
 
 _A curated list of awesome Inferno resources, libraries, and software._
 
+_Note_: Curated is a strong word since there is so little public content related to Inferno/Limbo, so this is basically everything out there found so far. All content is awesome in this regard. 
+
 The official repository for the current Inferno source tree is: <https://bitbucket.org/inferno-os/inferno-os/>
 
 The official website of the Inferno operating system is: <http://www.vitanuova.com/inferno/index.html>
@@ -24,6 +26,10 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 
 ### Contributing
 
+Please do.
+
+PR's welcome for all edits or new projects. 
+
 ### Contents
 
 - [Awesome Inferno](#awesome-inferno)
@@ -41,6 +47,7 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 
 *Useful documents, blogs, etc. that relate to Inferno and the Limbo programming language.*
 
+* [Limbo by Example](https://github.com/henesy/limbobyexample)
 * [debu.gs blog](http://debu.gs/tags/inferno)
 	* [Inferno, Part 1: Shell](http://debu.gs/entries/inferno-part-1-shell)
 	* [Inferno, Part 3: Let's Make a Filesystem!](http://debu.gs/entries/inferno-part-3-let-s-make-a-filesystem)
@@ -54,7 +61,7 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 * [inferno-hell blog (jp)](https://inferno-hell.blogspot.com/search/label/inferno)
 * [snegovick blog](https://snegovick.me/) - Porting Inferno series
 * [hatena diary (jp)](https://inferno.hatenadiary.org/)
-* [Mrynet Inferno documents (old)](ftp://mrynet.com/os/inferno/)
+* Mrynet Inferno documents (old): ftp://mrynet.com/os/inferno/
 * [Try Inferno in a web browser](http://tryinferno.rekka.io/)
 * [Getting Started with Inferno](https://www.ueber.net/who/mjl/inferno/getting-started.html)
 * [Inferno Lab (source)](https://github.com/caerwynj/inferno-lab) - Inferno Lab - experiments in Inferno OS and Limbo
@@ -84,8 +91,14 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 * [Установка OS Inferno New Edition (ru)](https://habr.com/en/post/145922/)
 * [Каталог статей по OS Inferno (ru)](https://habr.com/en/post/145993/)
 * [Inferno user's page (jp)](https://web.archive.org/web/20061212130116/http://intrance.hp.infoseek.co.jp/infernopage.old/top.html)
+* [Building Distributed Applications with Inferno and Limbo](http://doc.cat-v.org/inferno/talks/pip-irp.pdf)
+* [Pervasive Computing withInferno and Limbo](http://doc.cat-v.org/inferno/talks/uci-invited-lecture.pdf)
+* [The PathStar™ Access Server: Facilitating Carrier-Scale Packet Telephony](http://doc.cat-v.org/inferno/pathstar/pathstar.pdf)
+
 
 ## Papers
+
+*Various papers or paper-equivalent documents related to Inferno and Limbo.*
 
 * [Cat-v papers index](http://doc.cat-v.org/inferno/4th_edition/)
 * [Vita Nuova papers index](http://www.vitanuova.com/inferno/papers)
@@ -98,8 +111,26 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 * [Installing the Inferno Software (natively)](http://www.vitanuova.com/inferno/papers/install.pdf)
 * [Dis VM Specification](http://www.vitanuova.com/inferno/papers/dis.pdf)
 * [A Descent into Limbo](http://www.vitanuova.com/inferno/papers/descent.pdf)
+* [The Inferno Shell (sh)](http://www.vitanuova.com/inferno/papers/sh.pdf)
+* [The Inferno Operating System](http://www.vitanuova.com/inferno/papers/bltj.pdf)
+* [Program Development under Inferno](http://www.vitanuova.com/inferno/papers/dev.pdf)
+* [The design of the Inferno virtual machine](http://www.vitanuova.com/inferno/papers/hotchips.pdf)
+* [Styx on a Brick](http://www.vitanuova.com/inferno/papers/lego.pdf) - Inferno running on a Lego Mindstorms robot
+* [Limbo Profilers in Inferno](http://www.vitanuova.com/inferno/papers/lprof.pdf)
+* [Real Inferno](http://www.vitanuova.com/inferno/papers/real.pdf) - Floating point implementation in Inferno
+* [Inferno Flash File System](http://www.vitanuova.com/inferno/papers/nandfs.pdf)
+* [The Styx Architecture for Distributed Systems](http://www.vitanuova.com/inferno/papers/styx.pdf)
+* [Using Inferno™ to Execute Java™ on Small Devices](http://doc.cat-v.org/inferno/java_on_dis/java_on_dis.pdf)
+* [The design of the Inferno virtual machine](http://doc.cat-v.org/inferno/4th_edition/dis_VM_design)
+* [Very Concurrent Mark and Sweep Garbage Collection without Fine-Grain Synchronization](http://doc.cat-v.org/inferno/concurrent_gc/)
+* [Reliable Benchmarking with Limbo on Inferno](http://doc.cat-v.org/inferno/4th_edition/benchmarking)
+* [Navigating Large XML Documents on Small Devices](http://doc.cat-v.org/inferno/4th_edition/navigating_xml)
+* [Native (Inferno) Kernel Debugging with Acid](http://doc.cat-v.org/inferno/4th_edition/kernel_debugging/)
+* [An Overview of Limbo/Tk](http://doc.cat-v.org/inferno/4th_edition/limbotk/)
 
 ## Libraries
+
+*Libraries, also known as modules, usable under Inferno. These may be in C or Limbo.*
 
 * [zipfs(4)](https://bitbucket.org/mjl/zipfs) - Library for managing .zip files
 * [http](https://bitbucket.org/mjl/http/) - A http library and examples
@@ -116,10 +147,16 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 * [cjson](https://github.com/powerman/inferno-cjson) - JSON tokenizer for (de)serializing ADT's
 * [tap](https://github.com/powerman/inferno-contrib-tap) - Test Anything Protocol (TAP) producer
 * [re2](https://github.com/powerman/inferno-re2) - Provides access to regular expression library re2 (hosted-only)
+* [avl](https://github.com/tonycool7/AVL-tree-Limbo) - AVL tree implementation with text file parsing
 
 ## Applications
 
-* [Terzarima Inferno Software](http://www.terzarima.net/inferno/soft/index.html)
+*Programs or program resources which can be used under Inferno. These are most likely written in Limbo.*
+
+* [simplefs](https://github.com/henesy/simplefs-limbo) - Simple styx filesystem to serve as a learning example
+* [tttfs](https://github.com/henesy/tictactoefs-limbo) - Simple styx filesystem implementing Tic-Tac-Toe as an example
+* [hexe](https://github.com/henesy/hexe-limbo) - Port of hexe hexdump utility by LunarLambda
+* [Terzarima Inferno Software](http://www.terzarima.net/inferno/soft/index.html) - Miscellaneous software from Terzarima
 * [emuq](https://www.ueber.net/emuq/) - Emu bundled with a small built-in root file system
 * [j2d](https://code.google.com/archive/p/inferno-j2d/) - Java to Dis conversion (very old)
 * [register](https://github.com/powerman/inferno-contrib-register) - Keep service registered in registry(4)
@@ -174,6 +211,8 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 
 ## Non-Inferno Software
 
+*Software for interfacing with, or relating to, Inferno and Limbo, but not intended for use under Inferno.*
+
 * [Python Dis Virtual Machine Tools](https://bitbucket.org/dboddie/dis-virtual-machine-tools-for-python/src/default/)
 * [Python Limbo Executable Packager](https://bitbucket.org/dboddie/limbo-executable-packager)
 * [Python Limbo to Qt Bridge](https://bitbucket.org/dboddie/limbo-to-qt-bridge)
@@ -183,27 +222,42 @@ __Inferno License Information:__ <http://www.vitanuova.com/inferno/licence.html>
 
 ## Ports
 
+*Ports of the Inferno operating system.*
+
 * [Hellaphone (Android)](https://bitbucket.org/floren/inferno/wiki/Home)
 * [Android App](https://github.com/bhgv/Inferno-OS_Android)
 * [Raspberry Pi](https://bitbucket.org/infpi/inferno-rpi/)
 * [Nintendo DS](https://bitbucket.org/mjl/inferno-ds)
 * [Marvell Kirkwood](https://bitbucket.org/mjl/inferno-kirkwood)
+* [Internet Explorer Plugin](http://www.vitanuova.com/inferno/pidoc/)
 
 ## Forks
+
+*Forks of the Inferno operating system.*
 
 * [Purgatorio](https://code.9front.org/hg/purgatorio)
 * [dboddie's fork](https://bitbucket.org/dboddie/inferno-os)
 
 ## Dis Implementations
 
+*Dis virtual machine implementations outside of Inferno proper.*
+
 * [DisVM](https://bitbucket.org/linuxuser27/disvm) - An implementation of the DisVM outside of the Inferno OS
 
 ## Inspired by Inferno
+
+*Projects inspired by the Inferno operating system.*
 
 * [Node9](https://github.com/jvburnes/node9) - A portable hybrid distributed OS based on Inferno, LuaJIT and Libuv
 * [Wonderland](https://github.com/kabbi/wonderland) - DHT-based distributed virtual filesystem based on Inferno
 
 ## Books
 
-* Inferno Programming with Limbo - 780470843529 - 978-0470843529
-* Principles of Operating Systems: Design & Applications - 1-4188-3769-5
+*Books related to the Inferno operating system and Limbo programming language.*
+
+*Note*: ISBN's are separated by double dashes: `--`
+
+* Inferno Programming with Limbo -- 780470843529 -- 978-0470843529
+* Principles of Operating Systems: Design & Applications -- 1-4188-3769-5
+* The Inferno Programming Book : An Introduction To Programming For The Inferno Distributed Systems (unpublished) -- 0470849711 -- 9780470849712
+* Inferno Programmer's Manual Collated (1 & 2) -- 0953870103 -- 978-0953870103
