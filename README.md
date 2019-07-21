@@ -35,6 +35,17 @@ _A curated list of awesome Inferno resources, libraries, and software._
 
 ## Applications
 
+* [qwm](https://bitbucket.org/mjl/qwm/) - Alternative window manager to wm/wm with arrangement similar to acme/dwm
+* [novt](https://bitbucket.org/mjl/novt/) - A basic ecma-48 terminal emulator with color
+* [wmrun](https://bitbucket.org/mjl/wmrun) - Extended alternative to wm/sh
+* [ircfs](https://bitbucket.org/mjl/ircfs) - IRC client expressing itself as a 9p file system (includes wm/irc gui client)
+* [find](https://bitbucket.org/mjl/find/) - Traverse directory trees; print paths and sys-stat(2) information about a file
+* [vacinit](https://bitbucket.org/mjl/vacinit) - Replacement for emuinit for Vac disk file systems (see: vacsrv)
+* [vacsrv](https://bitbucket.org/mjl/vacsrv/) - Vac file system
+* [ventisrv](https://bitbucket.org/mjl/ventisrv/) - Venti file server daemon
+* [q](https://bitbucket.org/mjl/q) - Provides static-linking-like functionality for Limbo
+* [wm/vncv](https://bitbucket.org/mjl/vnc) - VNC viewer using the RFB protocol
+* [vixen](https://bitbucket.org/mjl/vixen) - Vi-like editor
 * [hgfs](https://bitbucket.org/mjl/hgfs) - Serves the contents of a mercurial repository over styx
 * [fdmux](https://bitbucket.org/mjl/fdmux) - Multiplexes a file descriptor, e.g. a tcp connection
 * [nfssrv](https://bitbucket.org/mjl/nfssrv) - Contains nfssrv and nfsfs, an nfs server and client
