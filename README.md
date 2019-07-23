@@ -35,7 +35,7 @@ PR's welcome for all edits or new projects.
 - [Awesome Inferno](#awesome-inferno)
 	- [Resources](#resources)
 	- [Libraries](#libraries)
-	- [Applications](#software)
+	- [Applications](#applications)
 	- [Non-Inferno Software](#non-inferno-software)
 	- [Ports](#ports)
 	- [Forks](#forks)
@@ -56,12 +56,13 @@ PR's welcome for all edits or new projects.
 * [powerman programming blog (ru)](https://powerman.name/Inferno/Limbo.html)
 * [bluishcoder blog](https://bluishcoder.co.nz/tags/inferno/index.html)
 	* [Authentication and Encryption in Inferno](https://bluishcoder.co.nz/2012/12/18/authentication-and-encryption-in-inferno-os.html)
+	* [Bundling (packaging) Inferno Applications](https://bluishcoder.co.nz/2016/08/12/bundling-inferno-applications.html)
 * [lynxline blog](http://lynxline.com/category/inferno/)
 * [infernohacks blog](http://infernohacks.blogspot.com/)
 * [inferno-hell blog (jp)](https://inferno-hell.blogspot.com/search/label/inferno)
 * [snegovick blog](https://snegovick.me/) - Porting Inferno series
 * [hatena diary (jp)](https://inferno.hatenadiary.org/)
-* Mrynet Inferno documents (old): ftp://mrynet.com/os/inferno/
+* Mrynet Inferno documents (old): <ftp://mrynet.com/os/inferno/>
 * [Try Inferno in a web browser](http://tryinferno.rekka.io/)
 * [Getting Started with Inferno](https://www.ueber.net/who/mjl/inferno/getting-started.html)
 * [Inferno Lab (source)](https://github.com/caerwynj/inferno-lab) - Inferno Lab - experiments in Inferno OS and Limbo
