@@ -133,13 +133,13 @@ PR's welcome for all edits or new projects.
 
 *Libraries, also known as modules, usable under Inferno. These may be in C or Limbo.*
 
-* [zipfs(4)](https://bitbucket.org/mjl/zipfs) - Library for managing .zip files
-* [http](https://bitbucket.org/mjl/http/) - A http library and examples
-* [sha2](https://bitbucket.org/mjl/sha2) - SHA-2 library and example tools
-* [textmangle](https://bitbucket.org/mjl/textmangle) - Parses readable utf-8 ascii text and distills block-level layout information from it
-* [pdfread](https://bitbucket.org/mjl/pdfread) - A library & tools for reading pdf files
-* [util](https://bitbucket.org/mjl/util) - A library with various commonly used functions by mjl
-* [filtertool](https://bitbucket.org/mjl/filtertool) - Wrapper for the Limbo filter module
+* [zipfs(4)](https://github.com/mjl-/zipfs) - Library for managing .zip files
+* [http](https://github.com/mjl-/http/) - A http library and examples
+* [sha2](https://github.com/mjl-/sha2) - SHA-2 library and example tools
+* [textmangle](https://github.com/mjl-/textmangle) - Parses readable utf-8 ascii text and distills block-level layout information from it
+* [pdfread](https://github.com/mjl-/pdfread) - A library & tools for reading pdf files
+* [util](https://github.com/mjl-/util) - A library with various commonly used functions by mjl
+* [filtertool](https://github.com/mjl-/filtertool) - Wrapper for the Limbo filter module
 * [growing](https://github.com/powerman/inferno-contrib-growing) - Dynamically growing arrays
 * [powerman's hashtable](https://github.com/powerman/inferno-contrib-hashtable) - Limbo hash module substitute
 * [iobuf](https://github.com/powerman/inferno-contrib-iobuf) - Simpler alternative to bufio(2)
@@ -167,46 +167,46 @@ PR's welcome for all edits or new projects.
 * [watchdog](https://github.com/powerman/inferno-contrib-watchdog) - Detects and acts on crash of command/pid
 * [retrymount](https://github.com/powerman/inferno-contrib-retrymount) - Mounter which tries to reconnect dc'd mounts
 * [dboddie's misc programs](https://bitbucket.org/dboddie/limbo-programs) - A collection of Limbo programs by dboddie
-* [qwm](https://bitbucket.org/mjl/qwm/) - Alternative window manager to wm/wm with arrangement similar to acme/dwm
-* [novt](https://bitbucket.org/mjl/novt/) - A basic ecma-48 terminal emulator with color
-* [wmrun](https://bitbucket.org/mjl/wmrun) - Extended alternative to wm/sh
-* [ircfs](https://bitbucket.org/mjl/ircfs) - IRC client expressing itself as a 9p file system (includes wm/irc gui client)
-* [find](https://bitbucket.org/mjl/find/) - Traverse directory trees; print paths and sys-stat(2) information about a file
-* [vacinit](https://bitbucket.org/mjl/vacinit) - Replacement for emuinit for Vac disk file systems (see: vacsrv)
-* [vacsrv](https://bitbucket.org/mjl/vacsrv/) - Vac file system
-* [ventisrv](https://bitbucket.org/mjl/ventisrv/) - Venti file server daemon
-* [q](https://bitbucket.org/mjl/q) - Provides static-linking-like functionality for Limbo
-* [wm/vncv](https://bitbucket.org/mjl/vnc) - VNC viewer using the RFB protocol
-* [vixen](https://bitbucket.org/mjl/vixen) - Vi-like editor
-* [hgfs](https://bitbucket.org/mjl/hgfs) - Serves the contents of a mercurial repository over styx
-* [fdmux](https://bitbucket.org/mjl/fdmux) - Multiplexes a file descriptor, e.g. a tcp connection
-* [nfssrv](https://bitbucket.org/mjl/nfssrv) - Contains nfssrv and nfsfs, an nfs server and client
-* [web](https://bitbucket.org/mjl/web) - A collection of code for dealing with "the web"
-* [httptun](https://bitbucket.org/mjl/httptun) - Tunnel a tcp connection through http
-* [nopoint](https://bitbucket.org/mjl/nopoint) - A tool for displaying slideshows, inspired by magicpoint
-* [playfs](https://bitbucket.org/mjl/playfs) - Maintain play list and play audio files
-* [scgid](https://bitbucket.org/mjl/scgid) - SCGI daemon for tcp connections
-* [ip/dhcpd](https://bitbucket.org/mjl/dhcpd) - A dhcpd (it also speaks bootp)
-* [ext2fs](https://bitbucket.org/mjl/ext2fs) - Gives read-only access to the contents of ext2 file systems
-* [ffs](https://bitbucket.org/mjl/ffs) - A read-only implementation of the BSD ffs as used on OpenBSD
-* [ip/ftpsrv](https://bitbucket.org/mjl/ftpsrv) - A simple, anonymous, ftp server
-* [mjl's games](https://bitbucket.org/mjl/games) - Two graphical games by mjl
-* [webdavfs](https://bitbucket.org/mjl/webdavfs) - A 9p file server that accesses files over http/webdav
-* [hgweb](https://bitbucket.org/mjl/hgweb) - Implements a web frontend to hgfs, the mercurial file system
-* [(un)expand](https://bitbucket.org/mjl/expand) - Tab to space and space to tab conversion
-* [ttffs](https://bitbucket.org/mjl/ttffs) - A 9P server, serving ttf files in any size as inferno/plan 9 (sub)fonts
-* [fontsrv](https://bitbucket.org/mjl/fontsrv) - A translation service for fonts. given a font query
-* [zipfs](https://bitbucket.org/mjl/zipfs) - Programs for managing .zip files
-* [attrfs](https://bitbucket.org/mjl/attrfs) - Reads an attrdb(6) database into memory and provides a file system interface to finding matches
-* [cryptfile](https://bitbucket.org/mjl/cryptfile) - An encrypted block file served over styx
-* [authsrv9](https://bitbucket.org/mjl/authsrv9) - Provides a plan 9 authentication service (auth/authsrv)
-* [lsynergy](https://bitbucket.org/mjl/lsynergy) - A synergy client
-* [snmp](https://bitbucket.org/mjl/snmp) - Contains an snmp v1-2 client library and tools using these libraries
-* [styxtest](https://bitbucket.org/mjl/styxtest) - Programs to help test styx/9p servers for correct behaviour
-* [lyricd](https://bitbucket.org/mjl/lyricd) - Contains a lyric serving daemon, a client and a scgi program to serve as web frontend
-* [shhtpd](https://bitbucket.org/mjl/httpd) - Shttpd is a simple httpd
-* [torrent](https://bitbucket.org/mjl/torrent) - This package contains a bittorrent peer 
-* [ssh](https://bitbucket.org/mjl/ssh) - This package contains an ssh client, sftpfs, and the library that the client uses
+* [qwm](https://github.com/mjl-/qwm/) - Alternative window manager to wm/wm with arrangement similar to acme/dwm
+* [novt](https://github.com/mjl-/novt/) - A basic ecma-48 terminal emulator with color
+* [wmrun](https://github.com/mjl-/wmrun) - Extended alternative to wm/sh
+* [ircfs](https://github.com/mjl-/ircfs) - IRC client expressing itself as a 9p file system (includes wm/irc gui client)
+* [find](https://github.com/mjl-/find/) - Traverse directory trees; print paths and sys-stat(2) information about a file
+* [vacinit](https://github.com/mjl-/vacinit) - Replacement for emuinit for Vac disk file systems (see: vacsrv)
+* [vacsrv](https://github.com/mjl-/vacsrv/) - Vac file system
+* [ventisrv](https://github.com/mjl-/ventisrv/) - Venti file server daemon
+* [q](https://github.com/mjl-/q) - Provides static-linking-like functionality for Limbo
+* [wm/vncv](https://github.com/mjl-/vnc) - VNC viewer using the RFB protocol
+* [vixen](https://github.com/mjl-/vixen) - Vi-like editor
+* [hgfs](https://github.com/mjl-/hgfs) - Serves the contents of a mercurial repository over styx
+* [fdmux](https://github.com/mjl-/fdmux) - Multiplexes a file descriptor, e.g. a tcp connection
+* [nfssrv](https://github.com/mjl-/nfssrv) - Contains nfssrv and nfsfs, an nfs server and client
+* [web](https://github.com/mjl-/web) - A collection of code for dealing with "the web"
+* [httptun](https://github.com/mjl-/httptun) - Tunnel a tcp connection through http
+* [nopoint](https://github.com/mjl-/nopoint) - A tool for displaying slideshows, inspired by magicpoint
+* [playfs](https://github.com/mjl-/playfs) - Maintain play list and play audio files
+* [scgid](https://github.com/mjl-/scgid) - SCGI daemon for tcp connections
+* [ip/dhcpd](https://github.com/mjl-/dhcpd) - A dhcpd (it also speaks bootp)
+* [ext2fs](https://github.com/mjl-/ext2fs) - Gives read-only access to the contents of ext2 file systems
+* [ffs](https://github.com/mjl-/ffs) - A read-only implementation of the BSD ffs as used on OpenBSD
+* [ip/ftpsrv](https://github.com/mjl-/ftpsrv) - A simple, anonymous, ftp server
+* [mjl's games](https://github.com/mjl-/games) - Two graphical games by mjl
+* [webdavfs](https://github.com/mjl-/webdavfs) - A 9p file server that accesses files over http/webdav
+* [hgweb](https://github.com/mjl-/hgweb) - Implements a web frontend to hgfs, the mercurial file system
+* [(un)expand](https://github.com/mjl-/expand) - Tab to space and space to tab conversion
+* [ttffs](https://github.com/mjl-/ttffs) - A 9P server, serving ttf files in any size as inferno/plan 9 (sub)fonts
+* [fontsrv](https://github.com/mjl-/fontsrv) - A translation service for fonts. given a font query
+* [zipfs](https://github.com/mjl-/zipfs) - Programs for managing .zip files
+* [attrfs](https://github.com/mjl-/attrfs) - Reads an attrdb(6) database into memory and provides a file system interface to finding matches
+* [cryptfile](https://github.com/mjl-/cryptfile) - An encrypted block file served over styx
+* [authsrv9](https://github.com/mjl-/authsrv9) - Provides a plan 9 authentication service (auth/authsrv)
+* [lsynergy](https://github.com/mjl-/lsynergy) - A synergy client
+* [snmp](https://github.com/mjl-/snmp) - Contains an snmp v1-2 client library and tools using these libraries
+* [styxtest](https://github.com/mjl-/styxtest) - Programs to help test styx/9p servers for correct behaviour
+* [lyricd](https://github.com/mjl-/lyricd) - Contains a lyric serving daemon, a client and a scgi program to serve as web frontend
+* [shhtpd](https://github.com/mjl-/httpd) - Shttpd is a simple httpd
+* [torrent](https://github.com/mjl-/torrent) - This package contains a bittorrent peer 
+* [ssh](https://github.com/mjl-/ssh) - This package contains an ssh client, sftpfs, and the library that the client uses
 * [Acme SAC](https://github.com/caerwynj/acme-sac) - The ACME editor for Windows/Mac/Linux
 * [MR](https://github.com/yaokai1117/MRonInferno) - MapReduce framework including dfs and mapreduce
 
@@ -228,8 +228,8 @@ PR's welcome for all edits or new projects.
 * [Hellaphone (Android)](https://bitbucket.org/floren/inferno/wiki/Home)
 * [Android App](https://github.com/bhgv/Inferno-OS_Android)
 * [Raspberry Pi](https://bitbucket.org/infpi/inferno-rpi/)
-* [Nintendo DS](https://bitbucket.org/mjl/inferno-ds)
-* [Marvell Kirkwood](https://bitbucket.org/mjl/inferno-kirkwood)
+* [Nintendo DS](https://github.com/mjl-/inferno-ds)
+* [Marvell Kirkwood](https://github.com/mjl-/inferno-kirkwood)
 * [Internet Explorer Plugin](http://www.vitanuova.com/inferno/pidoc/)
 
 ## Forks
