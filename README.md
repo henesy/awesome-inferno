@@ -240,6 +240,7 @@ PR's welcome for all edits or new projects.
 * [Octopus](http://lsub.org/ls/octopus.html) - A system designed to provide ubiquitous access to computing resources
 * [Purgatorio](https://code.9front.org/hg/purgatorio)
 * [dboddie's fork](https://bitbucket.org/dboddie/inferno-os)
+* [xj9's tomo](https://git.sunshinegardens.org/~xj9/tomo)
 
 ## Dis Implementations
 
