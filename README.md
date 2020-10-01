@@ -221,6 +221,7 @@ PR's welcome for all edits or new projects.
 * [Perl Inferno Registry Manager](https://github.com/powerman/perl-Inferno-RegMgr)
 * [AsciiDoc Inferno man page backend](https://github.com/powerman/asciidoc-9man-backend)
 * [Limbo syntax highlighting for Limbo](https://github.com/vim-scripts/Limbo-syntax)
+* [9mine](https://github.com/9mine/9mine) - Run Minetest with Inferno
 
 ## Ports
 
@@ -241,6 +242,7 @@ PR's welcome for all edits or new projects.
 * [Purgatorio](https://code.9front.org/hg/purgatorio)
 * [dboddie's fork](https://bitbucket.org/dboddie/inferno-os)
 * [xj9's tomo](https://git.sunshinegardens.org/~xj9/tomo)
+* [metacoma's fork for Minetest/9mine](https://github.com/9mine/inferno-os/commits/master)
 
 ## Dis Implementations
 
