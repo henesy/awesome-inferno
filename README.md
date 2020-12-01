@@ -210,6 +210,7 @@ PR's welcome for all edits or new projects.
 * [ssh](https://bitbucket.org/mjl/ssh) - This package contains an ssh client, sftpfs, and the library that the client uses
 * [Acme SAC](https://github.com/caerwynj/acme-sac) - The ACME editor for Windows/Mac/Linux
 * [MR](https://github.com/yaokai1117/MRonInferno) - MapReduce framework including dfs and mapreduce
+* [ClusterComputing](https://github.com/liuxt/inferno) - Cluster and parallel computing framework based on Inferno
 
 ## Non-Inferno Software
 
