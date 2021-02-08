@@ -167,7 +167,7 @@ PR's welcome for all edits or new projects.
 * [opt/setup](https://github.com/powerman/inferno-opt-setup) - Scripts to setup /opt projects
 * [watchdog](https://github.com/powerman/inferno-contrib-watchdog) - Detects and acts on crash of command/pid
 * [retrymount](https://github.com/powerman/inferno-contrib-retrymount) - Mounter which tries to reconnect dc'd mounts
-* [dboddie's misc programs](https://bitbucket.org/dboddie/limbo-programs) - A collection of Limbo programs by dboddie
+* [dboddie's misc programs](https://gitlab.com/dboddie/limbo-programs) - A collection of Limbo programs by dboddie
 * [qwm](https://bitbucket.org/mjl/qwm/) - Alternative window manager to wm/wm with arrangement similar to acme/dwm
 * [novt](https://bitbucket.org/mjl/novt/) - A basic ecma-48 terminal emulator with color
 * [wmrun](https://bitbucket.org/mjl/wmrun) - Extended alternative to wm/sh
@@ -216,9 +216,9 @@ PR's welcome for all edits or new projects.
 
 *Software for interfacing with, or relating to, Inferno and Limbo, but not intended for use under Inferno.*
 
-* [Python Dis Virtual Machine Tools](https://bitbucket.org/dboddie/dis-virtual-machine-tools-for-python/src/default/)
-* [Python Limbo Executable Packager](https://bitbucket.org/dboddie/limbo-executable-packager)
-* [Python Limbo to Qt Bridge](https://bitbucket.org/dboddie/limbo-to-qt-bridge)
+* [Python Dis Virtual Machine Tools](https://gitlab.com/dboddie/dis-virtual-machine-tools-for-python)
+* [Python Limbo Executable Packager](https://gitlab.com/dboddie/limbo-packager)
+* [Python Limbo to Qt Bridge](https://gitlab.com/dboddie/limbo-qt-bridge)
 * [Perl Inferno Registry Manager](https://github.com/powerman/perl-Inferno-RegMgr)
 * [AsciiDoc Inferno man page backend](https://github.com/powerman/asciidoc-9man-backend)
 * [Limbo syntax highlighting for Limbo](https://github.com/vim-scripts/Limbo-syntax)
