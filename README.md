@@ -228,11 +228,11 @@ PR's welcome for all edits or new projects.
 
 *Ports of the Inferno operating system.*
 
-* [Hellaphone (Android)](https://bitbucket.org/floren/inferno/wiki/Home)
+* [Hellaphone (Android)](https://github.com/Plan9-Archive/hellaphone) - [Wiki](https://github.com/Plan9-Archive/hellaphone-wiki)
 * [Android App](https://github.com/bhgv/Inferno-OS_Android)
-* [Raspberry Pi](https://bitbucket.org/infpi/inferno-rpi/)
-* [Nintendo DS](https://bitbucket.org/mjl/inferno-ds)
-* [Marvell Kirkwood](https://bitbucket.org/mjl/inferno-kirkwood)
+* [Raspberry Pi](https://github.com/yshurik/inferno-rpi)
+* [Nintendo DS](https://github.com/Plan9-Archive/inferno-ds)
+* [Marvell Kirkwood](https://github.com/Plan9-Archive/inferno-kirkwood)
 * [Internet Explorer Plugin](http://www.vitanuova.com/inferno/pidoc/)
 
 ## Forks
