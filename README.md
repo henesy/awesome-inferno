@@ -10,7 +10,7 @@ The official website of the Inferno operating system is: <http://www.vitanuova.c
 
 The official mailing list for Inferno is on Google Groups: <https://groups.google.com/forum/#!forum/inferno-os>
 
-The IRC channel on Freenode for Inferno is: `#inferno`
+The IRC channel on [Libera](https://web.libera.chat) for Inferno is `#inferno`
 
 __Legal:__
 
