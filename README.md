@@ -243,7 +243,7 @@ PR's welcome for all edits or new projects.
 * [Octopus](http://lsub.org/ls/octopus.html) - A system designed to provide ubiquitous access to computing resources
 * [Purgatorio](https://code.9front.org/hg/purgatorio)
 * [dboddie's fork](https://bitbucket.org/dboddie/inferno-os)
-* [xj9's tomo](https://source.sunshinegardens.org/xjix/tomo)
+* [xj9's tomo](https://source.sunshinegardens.org/xjix/tomo-el-fuego/)
 * [metacoma's fork for Minetest/9mine](https://github.com/9mine/inferno-os/commits/master)
 
 ## Dis Implementations
