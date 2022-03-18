@@ -62,7 +62,7 @@ PR's welcome for all edits or new projects.
 * [inferno-hell blog (jp)](https://inferno-hell.blogspot.com/search/label/inferno)
 * [snegovick blog](https://snegovick.me/) - Porting Inferno series
 * [hatena diary (jp)](https://inferno.hatenadiary.org/)
-* [xj9's notes on Inferno](https://sunshinegardens.org/~xj9/wiki/inferno/)
+* [xj9's notes on Inferno](http://sunshinegardens.org/~xj9/wiki/inferno/)
 * Mrynet Inferno documents (old): <ftp://mrynet.com/os/inferno/>
 * [Try Inferno in a web browser](http://tryinferno.rekka.io/)
 * [Getting Started with Inferno](https://www.ueber.net/who/mjl/inferno/getting-started.html)
@@ -243,7 +243,7 @@ PR's welcome for all edits or new projects.
 * [Octopus](http://lsub.org/ls/octopus.html) - A system designed to provide ubiquitous access to computing resources
 * [Purgatorio](https://code.9front.org/hg/purgatorio)
 * [dboddie's fork](https://bitbucket.org/dboddie/inferno-os)
-* [xj9's tomo](https://git.sunshinegardens.org/~xj9/tomo)
+* [xj9's tomo](https://source.sunshinegardens.org/xjix/tomo)
 * [metacoma's fork for Minetest/9mine](https://github.com/9mine/inferno-os/commits/master)
 
 ## Dis Implementations
