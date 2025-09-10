@@ -237,6 +237,7 @@ PR's welcome for all edits or new projects.
 * [Marvell Kirkwood](https://github.com/Plan9-Archive/inferno-kirkwood)
 * [Internet Explorer Plugin](http://www.vitanuova.com/inferno/pidoc/)
 * [Acorn A7000+](https://gitlab.com/dboddie/inferno-os/-/wikis/Acorn%20A7000+)
+* [Raspberry Pi Pico](https://github.com/caerwynj/inferno-pico/tree/pico)
 
 ## Forks
 
