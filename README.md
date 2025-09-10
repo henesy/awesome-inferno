@@ -12,6 +12,8 @@ The official mailing list for Inferno is on Google Groups: <https://groups.googl
 
 The IRC channel on the [OFTC network](https://oftc.net) for Inferno is `##9fans#inferno`
 
+The IRC channel on Libera.Chat for Inferno is: `#inferno`
+
 __Legal:__
 
 Inferno® is a registered trademark of Vita Nuova Holdings Limited in the USA and other countries, and in the European Union.
@@ -75,8 +77,8 @@ PR's welcome for all edits or new projects.
 * [Cat-v Octopus manuals](http://man.cat-v.org/octopus/)
 * [Postnix Purgatorio manuals](http://man.postnix.pw/purgatorio/)
 * [Powerman Inferno manuals](https://powerman.name/Inferno/man/)
-* [How to Build a Native Inferno Kernel for the PC](https://umdrive.memphis.edu/blstuart/htdocs/inf_native.html)
-* [Installing Native Inferno on a PC](https://umdrive.memphis.edu/blstuart/htdocs/inf_nat_inst.html)
+* [How to Build a Native Inferno Kernel for the PC](https://web.archive.org/web/20170325224919/https://umdrive.memphis.edu/blstuart/htdocs/inf_native.html)
+* [Installing Native Inferno on a PC](https://web.archive.org/web/20160411084029/https://umdrive.memphis.edu/blstuart/htdocs/inf_nat_inst.html)
 * [Building Inferno with MSVC 2008](https://umdrive.memphis.edu/blstuart/htdocs/msvc8.html)
 * [Postnix Inferno image mirror](http://9.postnix.pw/inferno/images/)
 * [Limbo on Rosetta Code](http://rosettacode.org/wiki/Category:Limbo)
@@ -231,7 +233,7 @@ PR's welcome for all edits or new projects.
 * [Hellaphone (Android)](https://github.com/Plan9-Archive/hellaphone) - [Wiki](https://github.com/Plan9-Archive/hellaphone-wiki)
 * [Android App](https://github.com/bhgv/Inferno-OS_Android)
 * [Raspberry Pi](https://github.com/yshurik/inferno-rpi)
-* [Nintendo DS](https://github.com/Plan9-Archive/inferno-ds)
+* [Nintendo DS](https://github.com/LambdaCalculus37/inferno-ds)
 * [Marvell Kirkwood](https://github.com/Plan9-Archive/inferno-kirkwood)
 * [Internet Explorer Plugin](http://www.vitanuova.com/inferno/pidoc/)
 * [Acorn A7000+](https://gitlab.com/dboddie/inferno-os/-/wikis/Acorn%20A7000+)
